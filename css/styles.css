@@ -1,0 +1,28 @@
+
+body {
+  margin: 0;
+}
+h1{
+  margin-top: 0;
+
+}
+
+.pro{
+  text-decoration: underline; 
+}
+.top-div{
+    background-color: #85F4FF;
+    padding: 20px;
+
+}
+.mid-div{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.bottom-div{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
